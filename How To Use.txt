@@ -1,0 +1,6 @@
+/* Kazi Mejbaul Islam
+EEE- AUST
+*/
+
+Connect the signal pins of digital sensors as the pins are selected in the digtal_ir.ino file.
+Then upload this code on your arduino.
